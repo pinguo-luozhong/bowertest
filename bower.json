@@ -1,0 +1,9 @@
+{
+  "name": "bowertest",
+  "version": "1.0",
+  "description": "test bower",
+  "authors": [
+    "luozhong"
+  ],
+  "license": "MIT"
+}
