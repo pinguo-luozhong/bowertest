@@ -1,9 +1,9 @@
 {
-  "name": "bowertest",
-  "version": "1.0",
-  "description": "test bower",
+  "name": "luozhongbower",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pinguo-luozhong/luozhongbower.git",
   "authors": [
-    "luozhong"
+    "luozhong@camera360.com"
   ],
   "license": "MIT"
 }
